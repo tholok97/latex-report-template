@@ -9,6 +9,8 @@ _minted*
 *.brf
 *.bbl
 *.blg
+*.fls
+*.fdb_latexmk
 
 # don't ignore the example pdf
 !example.pdf
